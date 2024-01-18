@@ -20,11 +20,21 @@ Ensure you have a good understanding of the following concepts before using this
 
 ## Features
 
+
 - **Basic HTTP Server:** Handles basic HTTP requests and responds with appropriate HTTP status codes.
 
 - **TCP/IP Communication:** Implements communication using the TCP/IP protocol stack.
 
 - **HTTPS Support:** Provides basic support for HTTPS communication, ensuring secure data transfer.
+
+- **Multiple Client Connections:** Demonstrates how to handle multiple client connections concurrently, allowing the server to serve multiple clients simultaneously.
+
+- **File Handling:** Shows how to fetch files using HTTP GET requests and how to post content to a file using HTTP POST requests.
+
+- **Error Handling:** Responds with a 404 error if a requested file is not found.
+
+- **Header Parsing:** Explains how to parse HTTP headers to extract information about the client's request.
+
 
 ## Usage
 
