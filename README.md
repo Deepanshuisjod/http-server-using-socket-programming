@@ -43,3 +43,7 @@ Ensure you have a good understanding of the following concepts before using this
    ```bash
    git clone https://github.com/Deepanshuisjod/http-server-using-socket-programming.git
    cd http-server-using-socket-programming
+2. Run the Server:
+
+     ```bash
+   ./server.py
